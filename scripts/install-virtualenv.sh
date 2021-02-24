@@ -2,7 +2,7 @@
 
 VIRTUALENV_PATH=virtualenv
 REQUIREMENTS=requirements.txt
-PYTHON=python3.6
+PYTHON=python3
 
 rm -rf "${VIRTUALENV_PATH}"
 virtualenv -p "${PYTHON}" "${VIRTUALENV_PATH}"
