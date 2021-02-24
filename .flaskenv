@@ -1,1 +1,1 @@
-FLASK_APP=squirro.py
+FLASK_APP=contest.py
